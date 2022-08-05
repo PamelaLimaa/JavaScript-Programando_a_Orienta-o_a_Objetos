@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PamelaLimaa/JavaScript-Programando_a_Orienta-o_a_Objetos.git"
+  },
+  "author": "Pamela",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/PamelaLimaa/JavaScript-Programando_a_Orienta-o_a_Objetos/issues"
+  },
+  "homepage": "https://github.com/PamelaLimaa/JavaScript-Programando_a_Orienta-o_a_Objetos#readme"
+}
